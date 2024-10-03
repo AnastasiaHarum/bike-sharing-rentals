@@ -110,8 +110,8 @@ elif selected_option == "Data Bike Hour dan Day":
 # Opsi 3
 elif selected_option == "Data Statistik":
     # Baca file data
-    day_df = pd.read_csv(data_file_path_1)
-    hour_df = pd.read_csv(data_file_path_2)
+    day_df = pd.read_csv("Dashboard/cleaned_bikeshare_day.csv")
+    hour_df = pd.read_csv("Dashboard/cleaned_bikeshare_hour.csv")
 
     # Konversi kolom 'dateday' menjadi tipe datetime
     day_df['dateday'] = pd.to_datetime(day_df['dateday'])
