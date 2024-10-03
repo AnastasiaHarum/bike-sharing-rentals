@@ -1,12 +1,8 @@
 import streamlit as st
 import pandas as pd
-import gdown
 import os
-import plotly.express as px
 import matplotlib.pyplot as plt
-import plotly.graph_objs as go
 import seaborn as sns
-from plotly.subplots import make_subplots
 
 # Set gaya visualisasi
 sns.set_style("whitegrid")
