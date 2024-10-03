@@ -9,12 +9,15 @@ For further information, like the background of this dataset, dataset characteri
 .
 ├── Dashboard
 │   ├── Dashboard.py
-    ├── cleaned_bikeshare_hour.csv
+│   ├── cleaned_bikeshare_hour.csv
 │   └── cleaned_bikeshare_day.csv
 ├── Data Bike Rentals
 │   ├── Readme.txt
 │   ├── day.csv
 |   └── hour.csv
+├── data
+│   ├── logo.jpg
+|   └── logo2.png
 ├── screenshots
 |   ├── screenshots 1.jpg
 |   ├── screenshots 2.jpg
