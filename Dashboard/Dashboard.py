@@ -62,8 +62,8 @@ if selected_option == "Daftar Isi":
 # Opsi 2
 elif selected_option == "Data Bike Hour dan Day":
     # Baca kedua file CSV
-    data_gabungan1 = pd.read_csv(cleaned_bikeshare_day.csv)
-    data_gabungan2 = pd.read_csv(cleaned_bikeshare_hour.csv)
+    data_gabungan1 = pd.read_csv("Dashboard/cleaned_bikeshare_day.csv")
+    data_gabungan2 = pd.read_csv("Dashboard/cleaned_bikeshare_hour.csv")
 
     # Tampilkan masing-masing data tanpa penggabungan
     st.write("Data Bike Share Day")
