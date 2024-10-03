@@ -56,11 +56,11 @@ For further information, like the background of this dataset, dataset characteri
 4. Open your VSCode and run the file by clicking the terminal and write it `streamlit run dashboard.py`.
    
 ## 4. Screenshots
-![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/screenshot%201.jpg?raw=true)
+![alt text](https://github.com/AnastasiaHarum/bike-sharing-rentals/blob/main/screenshots/screenshots%201.jpg)
 
-![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/screenshot%202.jpg?raw=true)
+![alt text](https://github.com/AnastasiaHarum/bike-sharing-rentals/blob/main/screenshots/screenshots%202.jpg)
 
-![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/screenshot%203.jpg?raw=true)
+![alt text](https://github.com/AnastasiaHarum/bike-sharing-rentals/blob/main/screenshots/screenshots%203.jpg)
 
-![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/screenshot%204.jpg?raw=true)
+![alt text](https://github.com/AnastasiaHarum/bike-sharing-rentals/blob/main/screenshots/screenshots%204.jpg)
 
