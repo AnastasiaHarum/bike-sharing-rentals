@@ -16,10 +16,10 @@ For further information, like the background of this dataset, dataset characteri
 │   ├── day.csv
 |   └── hour.csv
 ├── screenshots
-|   ├── Screenshots (91).png
-|   ├── Screenshots (92).png
-|   ├── Screenshots (93).png
-|   └── Screenshots (94).png
+|   ├── screenshots 1.jpg
+|   ├── screenshots 2.jpg
+|   ├── screenshots 3.jpg
+|   └── screenshots 4.jpg
 ├── README.md
 ├── notebook.ipynb
 └── requirements.txt
@@ -54,3 +54,13 @@ For further information, like the background of this dataset, dataset characteri
 2. Install the Streamlit in your terminal or command prompt using `pip install streamlit`. Install another libraries like pandas, numpy, scipy, matplotlib, and seaborn if you haven't.
 3. Please note, don't move the csv file because it acts a data source. keep it in one folder as dashboard.py
 4. Open your VSCode and run the file by clicking the terminal and write it `streamlit run dashboard.py`.
+   
+## 4. Screenshots
+![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/screenshot%201.jpg?raw=true)
+
+![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/screenshot%202.jpg?raw=true)
+
+![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/screenshot%203.jpg?raw=true)
+
+![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/screenshot%204.jpg?raw=true)
+
