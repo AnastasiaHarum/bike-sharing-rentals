@@ -56,7 +56,7 @@ For further information, like the background of this dataset, dataset characteri
 4. Open your VSCode and run the file by clicking the terminal and write it `streamlit run dashboard.py`.
    
 ## 4. Screenshots
-![alt text](https://github.com/AnastasiaHarum/bike-sharing-rentals/blob/main/screenshots/screenshots%201.jpg)
+![alt text](https://github.com/AnastasiaHarum/bike-sharing-rentals/blob/main/screenshots/sreenshots%201.jpg)
 
 ![alt text](https://github.com/AnastasiaHarum/bike-sharing-rentals/blob/main/screenshots/screenshots%202.jpg)
 
