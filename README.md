@@ -1,6 +1,6 @@
 # Bike Rentals - Final Project "Belajar Analisis Data Dengan Python"
 
-This is a final project from Dicoding in the "Belajar Analisis Data Dengan Python" course to make analysis and create a dashboard from the bike sharing dataset. In the notebook file, I attached the way I did the analysis from Data Wrangling, Exploratory Data Analysis, and Data Visualization. Besides that, I also make the dashboard using streamlit, and you can check it by clicking on the link in the right sidebar or in [here](https://bike-sharing-rentals.streamlit.app/).
+This final project from Dicoding's "Belajar Analisis Data Dengan Python" course focuses on analyzing a bike-sharing dataset and creating a dashboard. In the notebook, I demonstrate the process of analysis, including Data Wrangling, Exploratory Data Analysis, and Data Visualization. Additionally, I built a dashboard using Streamlit, which you can access via the link in the right sidebar [here](https://bike-sharing-rentals.streamlit.app/).
 
 For further information, like the background of this dataset, dataset characteristics, file structures, and more, you can check out the `Readme` file. So in here, I won't explain it any further.
 
@@ -42,16 +42,14 @@ For further information, like the background of this dataset, dataset characteri
 **Note: Numbers 1 to 3 are in the dicoding-collection-exercise and number 4 is in dashboard.**
 
 ## 3. Getting Started
-### `notebook.ipynb`
-1. Download this project.
-2. Open your favorite IDE like Jupyter Notebook or Google Colaboratory (but in here I will use Google Colab).
-3. Create a New Notebook.
-4. Upload and select the file with .ipynb extension.
-5. Connect to hosted runtime.
-6. Lastly, run the code cells.
+### `Notebook_Bike_Sharing_Rentals.ipynb`
+1. Download the Project: Download the project files "Notebook_Bike_Sharing_Rentals.ipynb".
+2. Open Your Favorite IDE: You can use any IDE you prefer, like Jupyter Notebook or Google Colaboratory (for this tutorial, we'll use Google Colab).
+3. Create a New Notebook: Open Google Colab -> Click on File and select New notebook -> Upload the .ipynb.
+4. Run the Code Cells: Once the notebook is loaded, run each code cell by clicking the play icon next to the cell or using Shift + Enter.
 
 ### `dashboard/dashboard.py`
-1. Download this project.
+1. Download the project: 
 2. Install the Streamlit in your terminal or command prompt using `pip install streamlit`. Install another libraries like pandas, numpy, scipy, matplotlib, and seaborn if you haven't.
 3. Please note, don't move the csv file because it acts a data source. keep it in one folder as dashboard.py
 4. Open your VSCode and run the file by clicking the terminal and write it `streamlit run dashboard.py`.
