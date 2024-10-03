@@ -7,10 +7,11 @@ For further information, like the background of this dataset, dataset characteri
 ## 1. File Structures
 ```
 .
-├── dashboard
-│   ├── dashboard.py
-│   └── day.csv
-├── data
+├── Dashboard
+│   ├── Dashboard.py
+    ├── cleaned_bikeshare_hour.csv
+│   └── cleaned_bikeshare_day.csv
+├── Data Bike Rentals
 │   ├── Readme.txt
 │   ├── day.csv
 |   └── hour.csv
