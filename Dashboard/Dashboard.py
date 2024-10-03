@@ -39,13 +39,13 @@ selected_option = st.sidebar.selectbox(
 )
 
 # Tentukan folder dan file data
-data_folder = "data" 
-data_file_name_1 = "cleaned_bikeshare_day.csv"
-data_file_name_2 = "cleaned_bikeshare_hour.csv"
+#data_folder = "data" 
+#data_file_name_1 = "cleaned_bikeshare_day.csv"
+#data_file_name_2 = "cleaned_bikeshare_hour.csv"
 
 # Tentukan path untuk kedua file
-data_file_path_1 = os.path.join(data_folder, data_file_name_1)
-data_file_path_2 = os.path.join(data_folder, data_file_name_2)
+#data_file_path_1 = os.path.join(data_folder, data_file_name_1)
+#data_file_path_2 = os.path.join(data_folder, data_file_name_2)
 
 # Menampilkan data berdasarkan opsi yang dipilih
 # Opsi 1
@@ -62,8 +62,8 @@ if selected_option == "Daftar Isi":
 # Opsi 2
 elif selected_option == "Data Bike Hour dan Day":
     # Baca kedua file CSV
-    data_gabungan1 = pd.read_csv(data_file_path_1)
-    data_gabungan2 = pd.read_csv(data_file_path_2)
+    data_gabungan1 = pd.read_csv(cleaned_bikeshare_day.csv)
+    data_gabungan2 = pd.read_csv(cleaned_bikeshare_hour.csv)
 
     # Tampilkan masing-masing data tanpa penggabungan
     st.write("Data Bike Share Day")
